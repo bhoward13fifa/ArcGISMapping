@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDataManager.Library"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MappingData", "MappingData\MappingData.sqlproj", "{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{947D8A49-7594-4A06-93A4-658905E07AB2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{D3160B31-6492-405D-9045-FBFB626A9520}"
 	ProjectSection(SolutionItems) = preProject
-		..\CSE310Module1GISMapping\CSE310Module1GISMapping\README.md = ..\CSE310Module1GISMapping\CSE310Module1GISMapping\README.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global

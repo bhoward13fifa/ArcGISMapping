@@ -9,7 +9,7 @@ what is in the database will the user be allowed access.
 
 I created this program to expound upon my knowledge of WPF and C#
 
-[Software Demo Video](https://youtu.be/VnDlWv-ReRQ)
+[Software Demo Video](https://youtu.be/xpKTqfrpAOE)
 
 # Development Environment
 
