@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcGISMapping", "ArcGISMapping\ArcGISMapping.csproj", "{B274F475-73A6-48B6-AAD9-6F7A1798BD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDesktopUI", "MappingDesktopUI\MappingDesktopUI.csproj", "{187171D8-B013-4AFE-B920-AC6EDE6F41D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDesktopUI.Library", "MappingDesktopUI.Library\MappingDesktopUI.Library.csproj", "{C1DC8A8A-0EC3-474D-BCE8-F3596EF366AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingDataManager.Library", "MappingDataManager.Library\MappingDataManager.Library.csproj", "{FB451A33-CBB3-4DF6-8451-B1230DCB4255}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MappingData", "MappingData\MappingData.sqlproj", "{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{947D8A49-7594-4A06-93A4-658905E07AB2}"
+	ProjectSection(SolutionItems) = preProject
+		..\CSE310Module1GISMapping\CSE310Module1GISMapping\README.md = ..\CSE310Module1GISMapping\CSE310Module1GISMapping\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B274F475-73A6-48B6-AAD9-6F7A1798BD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B274F475-73A6-48B6-AAD9-6F7A1798BD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B274F475-73A6-48B6-AAD9-6F7A1798BD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B274F475-73A6-48B6-AAD9-6F7A1798BD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187171D8-B013-4AFE-B920-AC6EDE6F41D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187171D8-B013-4AFE-B920-AC6EDE6F41D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187171D8-B013-4AFE-B920-AC6EDE6F41D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187171D8-B013-4AFE-B920-AC6EDE6F41D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DC8A8A-0EC3-474D-BCE8-F3596EF366AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DC8A8A-0EC3-474D-BCE8-F3596EF366AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DC8A8A-0EC3-474D-BCE8-F3596EF366AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DC8A8A-0EC3-474D-BCE8-F3596EF366AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB451A33-CBB3-4DF6-8451-B1230DCB4255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB451A33-CBB3-4DF6-8451-B1230DCB4255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB451A33-CBB3-4DF6-8451-B1230DCB4255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB451A33-CBB3-4DF6-8451-B1230DCB4255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F9400E-06AB-4A5A-BAF2-0739E47D8FF4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9415CA-6927-4465-8217-2B9F6889630A}
+	EndGlobalSection
+EndGlobal
